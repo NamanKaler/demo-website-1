@@ -1,0 +1,17 @@
+@media (max-width: 768px) {
+    .about-content, .contact-container {
+        flex-direction: column;
+    }
+    
+    .nav-links {
+        display: none;
+    }
+    
+    .hero h1 {
+        font-size: 36px;
+    }
+    
+    .section {
+        padding: 50px 0;
+    }
+}
